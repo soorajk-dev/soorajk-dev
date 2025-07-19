@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Khopkar
 
-💼 **Automation Test Lead** | 🧪 **QA Expert** | 🌐 **Healthcare Domain Specialist**
+💼 **Automation Test Architect** | 🧪 **QA Expert** | 🌐 **Healthcare Domain Specialist**
 
 ---
 
